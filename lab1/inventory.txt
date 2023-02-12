@@ -1,0 +1,3 @@
+[web]
+web1 ansible_host=34.238.148.29  ansible_user=ubuntu    ansible_ssh_private_key_file=./dev.pem ansible_connection=ssh
+web2 ansible_host=54.144.88.25  ansible_user=ubuntu    ansible_ssh_private_key_file=./dev.pem ansible_connection=ssh
